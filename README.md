@@ -9,4 +9,6 @@ then just run the file through CLI:
 ```
 py 1.py
 ```
+
+words to exclude in the initial processing can be changed by adding/removing them from the .txt file
  
